@@ -2,6 +2,8 @@
 !/programa/.gitkeep
 /modelo/*
 !/modelo/.gitkeep
+/runtime/*
+!/runtime/.gitkeep
 /documentos/*
 !/documentos/.gitkeep
 /conversas/*
@@ -11,3 +13,4 @@
 *.dll
 *.zip
 *.log
+*.tmp
