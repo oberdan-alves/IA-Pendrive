@@ -1,0 +1,13 @@
+/programa/*
+!/programa/.gitkeep
+/modelo/*
+!/modelo/.gitkeep
+/documentos/*
+!/documentos/.gitkeep
+/conversas/*
+!/conversas/.gitkeep
+*.gguf
+*.exe
+*.dll
+*.zip
+*.log
